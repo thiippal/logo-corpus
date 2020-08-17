@@ -18,7 +18,7 @@ To install Jupyter on **macOS**, follow the instructions below:
 
   1. Open the Terminal application 
   
-  2. Create a Python 3 virtual environment named `logocorp` by entering the following command: `python3 -m venv ~/logocorp`
+  2. Create a Python 3 virtual environment named `logocorp` by entering the following command: `python3 -m venv ~/logocorp`. Activate the virtual environment with the following command: `source ~/logocorp/bin/activate`.
   
   3. Clone this repository from GitHub by entering the following command: `git clone https://github.com/thiippal/logo-corpus.git`. This clones the repository into a directory named `logo-corpus`. Use the command `cd logo-corpus` to change into the directory.
   
