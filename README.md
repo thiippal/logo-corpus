@@ -1,5 +1,7 @@
 # A repository for the chapter *A Corpus-Based Approach to Colour, Shape and Typography in Logos*
 
+This repository is associated with the chapter *A Corpus-Based Approach to Colour, Shape and Typography in Logos* by Christian Mosbæk Johannessen, Mads Lomholt Tvede, Kristoffer Claussen Boesen and Tuomo Hiippala, to be published in the edited volume *Empirical Multimodality Research* by 
+
 ## What does this repository contain?
 
 This repository contains the data and code needed to reproduce the results reported in the chapter.
