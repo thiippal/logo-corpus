@@ -2,6 +2,8 @@
 
 This repository is associated with the chapter *A Corpus-Based Approach to Colour, Shape and Typography in Logos* by Christian Mosbæk Johannessen, Mads Lomholt Tvede, Kristoffer Claussen Boesen and Tuomo Hiippala, to be published in the edited volume *Empirical Multimodality Research* by Jana Pflaeging, Carman Ng, Janina Wildfeuer and John A. Bateman.
 
+[![DOI](https://zenodo.org/badge/212310716.svg)](https://zenodo.org/badge/latestdoi/212310716)
+
 ## What does this repository contain?
 
 This repository contains the data and code needed to reproduce the results reported in the chapter.
